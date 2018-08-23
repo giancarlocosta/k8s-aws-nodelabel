@@ -1,4 +1,4 @@
-# Kubernetes AWS Node Labler
+# Kubernetes AWS Node Labeler
 
 > Tool to convert AWS tags to Kubernetes labels and taints. Each pod of the
 DaemonSet will read the tags of the AWS instance the Kubernetes node is running
